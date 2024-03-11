@@ -1,5 +1,8 @@
 body {
-    background-color: #0a0a23;
+
+    
+        background: url(d.jpg) no-repeat center fixed;
+  background-size: cover;
   }
   
   #text {
@@ -10,11 +13,12 @@ body {
   
   #game {
     max-width: 500px;
-    max-height: 400px;
+    max-height: 800px;
     background-color: #ffffff;
     color: #ffffff;
-    margin: 30px auto 0px;
-    padding: 10px;
+    margin: 170px 70px ;
+    margin-left:700px;
+    padding: 30px;
   }
   
   #controls,
